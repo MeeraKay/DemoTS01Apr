@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/uipatftdwazj/MeeTenant/testmanager_",
+  "defaultProject": {
+    "id": "922a0702-ea04-0000-6585-0b439176faf8",
+    "name": "TestPrj1",
+    "key": "TESTPRJ"
+  }
+}

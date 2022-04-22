@@ -1,0 +1,1 @@
+[{"Amount":">100K","Term":">5Y"},{"Amount":">100K","Term":"<5Y"},{"Amount":"<1K","Term":">5Y"},{"Amount":"<1K","Term":"<5Y"},{"Amount":"[1K,100K]","Term":">5Y"},{"Amount":"[1K,100K]","Term":"<5Y"}]
